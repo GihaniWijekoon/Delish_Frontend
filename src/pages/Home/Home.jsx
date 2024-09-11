@@ -13,6 +13,7 @@ function Home() {
       <Header/>
       <ExploreMenu category={category} setCategory={setCategory}/>
       <FoodDisplay category={category} />
+      <h1>hello</h1>
     </div>
   )
 }
